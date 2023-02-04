@@ -1,0 +1,22 @@
+{
+  "name": "bej7-chapter-5-test-bijak",
+  "version": "1.0.0",
+  "description": "BEJ7 Test Sequelize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/wisedevguy/bej7-chapter-5-test-bijak)"
+  },
+  "keywords": [
+    "Binar",
+    "BEJ",
+    "Sequelize",
+    "NodeJS",
+    "ORM"
+  ],
+  "author": "Bijak",
+  "license": "ISC"
+}
